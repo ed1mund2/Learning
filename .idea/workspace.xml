@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e76ac4ff-b90c-41e4-ab4b-e6f3f6a12273" name="Changes" comment="Chapter 1 Lessons.">
+    <list default="true" id="e76ac4ff-b90c-41e4-ab4b-e6f3f6a12273" name="Changes" comment="Chapter 1 Lessons notes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,14 @@
     "settings.editor.selected.configurable": "shared-indexes"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ChapterOne_FirstStep">
+    <configuration name="ChapterOne_FirstStep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChapterOne_FirstStep" />
+      <module name="Learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ChapterOne_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ChapterOne_Operators" />
       <module name="Learning" />
@@ -48,6 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChapterOne_FirstStep" />
         <item itemvalue="Application.ChapterOne_Operators" />
       </list>
     </recent_temporary>
@@ -68,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668446948980</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Chapter 1 Lessons notes">
+      <created>1668467781131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668467781131</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,7 +99,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter 1 Lessons." />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1 Lessons." />
+    <MESSAGE value="Chapter 1 Lessons notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1 Lessons notes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
