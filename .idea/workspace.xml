@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e76ac4ff-b90c-41e4-ab4b-e6f3f6a12273" name="Changes" comment="Chapter 1 Lessons notes">
+    <list default="true" id="e76ac4ff-b90c-41e4-ab4b-e6f3f6a12273" name="Changes" comment="Chapter 1 Java class name change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,14 @@
     "settings.editor.selected.configurable": "shared-indexes"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ChapterOne_FirstStep">
+  <component name="RunManager" selected="Application.ChapterTwo_Methods">
+    <configuration name="ChapterOne_ExpressionTypeLogic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChapterOne_ExpressionTypeLogic" />
+      <module name="Learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ChapterOne_FirstStep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ChapterOne_FirstStep" />
       <module name="Learning" />
@@ -53,8 +60,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ChapterTwo_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChapterTwo_Methods" />
+      <module name="Learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChapterTwo_Methods" />
+        <item itemvalue="Application.ChapterOne_ExpressionTypeLogic" />
         <item itemvalue="Application.ChapterOne_FirstStep" />
         <item itemvalue="Application.ChapterOne_Operators" />
       </list>
@@ -83,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668467781131</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Chapter 1 Java class name change">
+      <created>1668468267945</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668468267945</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,7 +123,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter 1 Lessons." />
     <MESSAGE value="Chapter 1 Lessons notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1 Lessons notes" />
+    <MESSAGE value="Chapter 1 Java class name change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1 Java class name change" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
