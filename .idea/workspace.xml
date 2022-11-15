@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e76ac4ff-b90c-41e4-ab4b-e6f3f6a12273" name="Changes" comment="Chapter 1 Java class name change">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e76ac4ff-b90c-41e4-ab4b-e6f3f6a12273" name="Changes" comment="Chapter 2 materials." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668468267945</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Chapter 2 materials.">
+      <created>1668515526398</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668515526398</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,7 +129,8 @@
     <MESSAGE value="Chapter 1 Lessons." />
     <MESSAGE value="Chapter 1 Lessons notes" />
     <MESSAGE value="Chapter 1 Java class name change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1 Java class name change" />
+    <MESSAGE value="Chapter 2 materials." />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 2 materials." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
