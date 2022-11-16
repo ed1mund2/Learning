@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e76ac4ff-b90c-41e4-ab4b-e6f3f6a12273" name="Changes" comment="Chapter 2 materials." />
+    <list default="true" id="e76ac4ff-b90c-41e4-ab4b-e6f3f6a12273" name="Changes" comment="Chapter 1 method class fixture to uncap.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,14 @@
     "settings.editor.selected.configurable": "shared-indexes"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ChapterTwo_Methods">
+  <component name="RunManager" selected="Application.ChapterFour_ClassAndInheritance">
+    <configuration name="ChapterFour_ClassAndInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChapterFour_ClassAndInheritance" />
+      <module name="Learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ChapterOne_ExpressionTypeLogic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ChapterOne_ExpressionTypeLogic" />
       <module name="Learning" />
@@ -67,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChapterFour_ClassAndInheritance" />
         <item itemvalue="Application.ChapterTwo_Methods" />
         <item itemvalue="Application.ChapterOne_ExpressionTypeLogic" />
         <item itemvalue="Application.ChapterOne_FirstStep" />
@@ -111,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668515526398</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Chapter 1 method class fixture to uncap.">
+      <created>1668515673490</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668515673490</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,7 +147,8 @@
     <MESSAGE value="Chapter 1 Lessons notes" />
     <MESSAGE value="Chapter 1 Java class name change" />
     <MESSAGE value="Chapter 2 materials." />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 2 materials." />
+    <MESSAGE value="Chapter 1 method class fixture to uncap." />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1 method class fixture to uncap." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
